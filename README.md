@@ -1,2 +1,2 @@
-## This website is template created using SCSS.
+## This Landing page template was created using SCSS.
 #### It was created for learning purpose 😊
